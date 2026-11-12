@@ -1,0 +1,5 @@
+fastapi==0.162.5
+uvicorn==0.54.0
+pydantic-ai==2.68.0
+email-validator==2.3.0
+httpx2==2.16.0
